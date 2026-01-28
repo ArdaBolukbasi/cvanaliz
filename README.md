@@ -1,5 +1,9 @@
 <div align="center">
-
+<div align="center">
+  <a href="https://cvanaliz.com.tr" target="_blank">
+    <img src="https://img.shields.io/badge/Canlı_Demo-cvanaliz.com.tr-success?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
+  </a>
+</div>
   <!-- Logo and Title Block -->
   <img src="static/favicon.png" alt="Logo" width="100" />
   
@@ -14,8 +18,10 @@
     <a href="#yapi">Structure</a>
   </p>
 
-  <img src="static/screenshot.png" alt="Interface Preview" width="100%" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(100, 100, 255, 0.2); margin: 20px 0;" />
-
+  <a href="https://cvanaliz.com.tr" target="_blank">
+    <img src="static/screenshot.png" alt="Live Demo" width="34%" />
+  </a>
+</div>
 </div>
 
 <br/>
@@ -176,5 +182,6 @@ Get it running on your local machine in just 4 steps.
 
 <div align="center">
   <hr style="width: 50%; border: 0; border-top: 2px solid #667eea; margin: 30px 0;" />
-  <p>This project is designed to democratize modern recruitment processes using AI.</p>
+  <p>This project is a personal initiative built to master Full-Stack development and AI integration skills.</p>
 </div>
+
