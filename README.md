@@ -19,7 +19,7 @@
   </p>
 
   <a href="https://cvanaliz.com.tr" target="_blank">
-    <img src="static/screenshot.png" alt="Live Demo" width="34%" />
+    <img src="static/screenshot.jpg" alt="Live Demo" width="34%" />
   </a>
 </div>
 </div>
@@ -184,4 +184,5 @@ Get it running on your local machine in just 4 steps.
   <hr style="width: 50%; border: 0; border-top: 2px solid #667eea; margin: 30px 0;" />
   <p>This project is a personal initiative built to master Full-Stack development and AI integration skills.</p>
 </div>
+
 
